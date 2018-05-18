@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Dahak Metagenomics\n\u00b6\n\n\nThis is a top-level site describing the dahak metagenomics project.\n\n\nFind the dahak-metagenomics organization on Github\n\n\nRepositories:\n\n\n\n\ndahak\n\n\ndahak-taco\n\n\ndahak-yeti\n\n\ntaco-simple\n\n\ntaco-read-filtering\n\n\ntaco-taxonomic-classification",
+            "title": "Index"
+        },
+        {
+            "location": "/#dahak-metagenomics",
+            "text": "This is a top-level site describing the dahak metagenomics project.  Find the dahak-metagenomics organization on Github  Repositories:   dahak  dahak-taco  dahak-yeti  taco-simple  taco-read-filtering  taco-taxonomic-classification",
+            "title": "Dahak Metagenomics"
+        }
+    ]
+}
