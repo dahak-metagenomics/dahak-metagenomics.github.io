@@ -1,6 +1,6 @@
 # Dahak Metagenomics
 
-Dahak Metagenomics is a project to build workflows for non-clinical metagenomic analyses.
+**Dahak Metagenomics** is a project to build workflows for non-clinical metagenomic analyses.
 
 Find the dahak-metagenomics organization on Github at 
 [https://github.com-metagenomics](https://github.com-metagenomics).
@@ -33,13 +33,13 @@ and instructions for Docker installation are included there.
 You can run these protocols interactively using Docker or automate them using
 Snakemake and Singularity. See the workflows
 [README](https://github.com/dahak-metagenomics/dahak/blob/master/workflows/README.md)
-for Docker, Snakemake and, Singularity istall instructions. 
+for Docker, Snakemake and, Singularity install instructions. 
 
 The assembly, comparison, functional inference, and taxonomic classification
-workflows are depednent upon the output of the read filtering workflow data.
-You can download our data to use in the read filtering protocol from the
-openscience framework. See the section below titled Data and the read filtering
-protocol for more information. 
+workflows are dependent upon the output of the read filtering workflow data.
+You can download our data to use in the read filtering protocol from the 
+[Open Science Framework (OSF)](https://cos.io/our-products/osf/). See the section
+below titled Data and the read filtering protocol for more information. 
 
 ## Prerequisites
 
