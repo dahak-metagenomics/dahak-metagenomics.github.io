@@ -50,7 +50,7 @@ dahak is not a standalone program, but rather a collection of workflows
 that are defined in snakemake files and that utilize bioconda and Docker
 to install and run software for different tasks.
 
-See the [`workflows/`](/workflows/) directory to get started.
+See the [`workflows/`](https://github.com/dahak-metagenomics/dahak/tree/master/workflows) directory to get started.
 
 ## Data 
 
