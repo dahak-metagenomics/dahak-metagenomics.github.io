@@ -3,7 +3,7 @@
 **Dahak Metagenomics** is a project to build workflows for non-clinical metagenomic analyses.
 
 Find the dahak-metagenomics organization on Github at 
-[https://github.com-metagenomics](https://github.com-metagenomics).
+[https://github.com/dahak-metagenomics](https://github.com/dahak-metagenomics).
 
 # Dahak
 
